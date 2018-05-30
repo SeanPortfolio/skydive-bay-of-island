@@ -1,0 +1,60 @@
+// Basic Color Variables
+$black: #000000;
+$white: #FFFFFF;
+$mid-black: #221E1F;
+
+$grey: #A7A9AA;
+
+$dark-grey: #4A4748;
+$mid-grey: #E8E8E8;
+$light-grey: #F4F4F4;
+$extreme-grey: #F3F3F3;
+
+
+$rgb-box-shadow-color: rgba($grey, 0.7);
+
+// Primary Color Variables
+
+$dark-blue: #0043A0;
+$light-blue: #1672C8;
+
+$yellow: #FDBC1A;
+
+
+
+// FONT FAMILIES
+$secondary-font: 'ubuntubold';
+$primary-font: 'Roboto Condensed', sans-serif;
+
+// $ff-dinbekmedium: 'Dinbek Medium', sans-serif;
+// $ff-dinbekbold: 'Dinbek Bold', sans-serif;
+// $ff-concrete: 'Concrete Shoes', sans-serif;
+
+$ff-fa: 'FontAwesome';
+$ff-fa-brand: 'Font Awesome 5 Brands';
+$ff-fa-regular: 'Font Awesome 5 Free';
+
+$fw-regular:400;
+$fw-medium:500;
+$fw-semi-bold:600;
+$fw-bold:700;
+
+
+// General Variables
+
+$base-color: $black;
+
+$footer-color: $white;
+$content-color: inherit;
+
+$base-font-size: 18px;
+$base-line-height: 1.4;
+$base-font: $primary-font;
+
+$anchor-color: inherit;
+$anchor-font-weight: 100;
+$heading-font-weight: 100;
+
+
+$graphics-dir-path: '../../graphics/' !default;
+$fonts-dir-path: '../fonts/' !default;
